@@ -3,7 +3,7 @@ import {Environment} from '../app/core/models/environment';
 export const environment = {
   production: true,
   cv: 'guille-ae.json',
-  googleAnalyticsId: 'UA-168549562-1',
-  space: 'josrqp2i7res',
-  accessToken: 'JF3QHJNRClHrGPXwd-keudGj04PlDfi9bRXwZDXnWkw'
+  googleAnalyticsId: '',
+  space: 'y63c74ni9f9v',
+  accessToken: '23lh5ZQv68DvX0WFzLY11VWrmYBuTVx6AdRuMkvQGP8'
 } as Environment;

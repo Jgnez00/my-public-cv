@@ -4,6 +4,6 @@ export const environment = {
   production: false,
   cv: 'guille-ae.json',
   googleAnalyticsId: '',
-  space: 'josrqp2i7res',
-  accessToken: 'JF3QHJNRClHrGPXwd-keudGj04PlDfi9bRXwZDXnWkw'
+  space: 'y63c74ni9f9v',
+  accessToken: '23lh5ZQv68DvX0WFzLY11VWrmYBuTVx6AdRuMkvQGP8'
 } as Environment;
